@@ -7,7 +7,6 @@
 
 function printerError(s) {
   let errorCount = 0;
-  let printerErrorFraction = "";
 
   // If the character at index i is after 'm', then it's an error.
   for(let i = 0; i < s.length; i++)
