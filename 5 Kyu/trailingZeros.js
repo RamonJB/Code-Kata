@@ -12,13 +12,11 @@ function zeros(n) {
   const kMax = Math.floor(Math.log(n) / Math.log(5));
   let Z = 0;
 
-  for(let k = 1; k <= kMax; k++) {
+  for(let k = 1; k <= kMax; k++)
     Z+=Math.floor(n / Math.pow(5, k));
-    console.log(Z)
-  }
 
   return Z;
-
+  
   // Intitial naive solution
   // let nFactorial = 1;
   // for(let i = 0; i <= n; i++)
