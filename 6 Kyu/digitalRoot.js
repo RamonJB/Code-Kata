@@ -56,5 +56,3 @@ function digital_root(n) {
   
   return totalSum;
 }
-
-digital_root(456)
