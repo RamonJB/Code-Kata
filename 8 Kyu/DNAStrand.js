@@ -2,7 +2,7 @@
 
 /*
   8 Kyu
-  Problem provided by https://www.codewars.com/kata/554e4a2f232cdd87d9000038
+  Problem provided by https://www.codewars.com/kata/complementary-dna
 */
 
 function DNAStrand(dna) {

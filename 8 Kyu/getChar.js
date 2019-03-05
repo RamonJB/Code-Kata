@@ -2,7 +2,7 @@
 
 /*
   8 Kyu
-  Problem provided by https://www.codewars.com/kata/55ad04714f0b468e8200001c
+  Problem provided by https://www.codewars.com/kata/get-character-from-ascii-value
 */
 
 function getChar(c) {

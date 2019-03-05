@@ -2,7 +2,7 @@
 
 /*
   7 Kyu
-  Problem provided by https://www.codewars.com/kata/546e2562b03326a88e000020
+  Problem provided by https://www.codewars.com/kata/square-every-digit
 */
 
 function squareDigits(num) {

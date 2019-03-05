@@ -2,7 +2,7 @@
 
 /*
   8 Kyu
-  Problem provided by https://www.codewars.com/kata/5556282156230d0e5e000089
+  Problem provided by https://www.codewars.com/kata/dna-to-rna-conversion
 */
 
 // Alternate solution that utilizes short-circuiting.

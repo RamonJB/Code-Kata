@@ -2,7 +2,7 @@
 
 /*
   6 Kyu
-  Problem provided by https://www.codewars.com/kata/541c8630095125aba6000c00
+  Problem provided by https://www.codewars.com/kata/sum-of-digits-slash-digital-root
 */
 
 function digital_root(n) {

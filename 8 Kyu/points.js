@@ -2,7 +2,7 @@
 
 /*
   8 Kyu
-  Problem provided by https://www.codewars.com/kata/5bb904724c47249b10000131
+  Problem provided by https://www.codewars.com/kata/total-amount-of-points
 */
 
 function points(games) {

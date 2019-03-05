@@ -2,7 +2,7 @@
 
 /*
   7 Kyu
-  Problem provided by https://www.codewars.com/kata/59901cd68fc658ab6c000025
+  Problem provided by https://www.codewars.com/kata/distributing-candies-fairly
 */
 
 // m = how many candies there are, n = how many children there are

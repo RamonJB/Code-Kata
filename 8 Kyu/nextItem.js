@@ -2,7 +2,7 @@
 
 /*
   8 Kyu
-  Problem provided by https://www.codewars.com/kata/542ebbdb494db239f8000046
+  Problem provided by https://www.codewars.com/kata/whats-up-next
 */
 
 function nextItem(xs, item) {

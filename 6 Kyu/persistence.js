@@ -2,7 +2,7 @@
 
 /*
   6 Kyu
-  Problem provided by https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+  Problem provided by https://www.codewars.com/kata/persistent-bugger
 */
 
 function persistence(num) {
