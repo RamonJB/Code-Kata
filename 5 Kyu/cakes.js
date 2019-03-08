@@ -22,14 +22,14 @@ function cakes(recipe, available) {
       if(!numCakesPerIngredient.hasOwnProperty(ingredient))
         numCakesPerIngredient[ingredient] = 0;
 
-      if(ingredientAmount >= 0) {
+      if(ingredientAmount >= 0)
         numCakesPerIngredient[ingredient]++;
-        console.log(ingredient)
-        console.log(ingredientAmount)
-      }
     }
   }
 
+  // Put the value of each key into an array and finding the min since the 
+  // number of cakes that can be made depends on the ingredient we have the 
+  // least of.
   let arr = Object.values(numCakesPerIngredient);
   let numCakes = Math.min(...arr);
 
