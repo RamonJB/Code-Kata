@@ -10,8 +10,9 @@ function findShort(s) {
   let min = Number.MAX_SAFE_INTEGER;
 
   for(let i = 0; i < wordsArray.length; i++) {
-    if(wordsArray[i].length < min)
+    if(wordsArray[i].length < min) {
       min = wordsArray[i].length;
+    }
   }
 
   return min;
